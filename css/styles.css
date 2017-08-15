@@ -1,0 +1,53 @@
+﻿body {
+    font-family: sans-serif, Arial, 'Times New Roman';
+    background-color: darkblue;
+    color: white;
+    font-size: 16px;
+    width: 970px;
+   
+}
+
+#header {
+    background-color: red;
+    border-radius: 15px;
+    height: 100px;
+    font-size: 30px;
+    vertical-align: text-bottom;
+    text-align: left;
+    margin-bottom: 10px;
+    
+}
+
+#navigation {
+    min-width: 200px;
+    font-size: 16px;
+    background-color: #0097A7;
+    display: inline-block;
+    border-radius: 15px;
+    vertical-align: top;
+    display: inline-block;
+    border-radius: 15px;
+    vertical-align: top;
+    
+}
+
+#main {
+    background-color: black;
+    display: inline-block;
+    border-radius: 15px;
+    padding: 8px;
+    width: 723px;
+    display: inline-block;
+}
+
+#footer {
+    margin: 10px 0px 10px 0px;
+    background-color: grey;
+    vertical-align: top;
+    display: block;
+    border-radius: 15px;
+    vertical-align: top;
+    height: 30px;
+    min-width: 937px;
+    padding: 15px;
+}
